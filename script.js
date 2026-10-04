@@ -1,4 +1,4 @@
 function changeMessage() {
     document.getElementById("message").textContent =
-        "JavaScript is working!";
+        "Hello from GitHub! My JavaScript program works!";
 }
